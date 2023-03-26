@@ -1,14 +1,14 @@
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Peyman+Naderi;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Mahdi+Motallebi;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
 ---
 
 ### 👨🏻‍🦱 About Me 
 
-I'm a Front-END & WordPress developer from Iran & working 127.0.01 Company
+I'm a Front-END developer from Iran
 
-- 🔭 As a front-end developer, I create web applications. I also make good exclusive themes wordpress.
+- 🔭 As a front-end developer, I create web applications.
 - ⚡ Now ... I'm ready to work with big teams.
 
 ---
