@@ -22,7 +22,7 @@ I'm a Front-END developer from Iran
 ![Redux-Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next js](https://img.shields.io/badge/Next.js-35495E?style=for-the-badge&logo=next.js&logoColor=4FC08D)
+![Next js](https://img.shields.io/badge/Next.js-070b0f?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
 
 
