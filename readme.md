@@ -6,9 +6,7 @@
 
 ### 👨🏻‍🦱 About Me 
 
-I'm a Front-END developer from Iran
-
-- 🔭 As a front-end developer, I create web applications.
+- 💻 &nbsp;I'm a Front-end Developer.
 - ⚡ Now ... I'm ready to work with big teams.
 
 ---
