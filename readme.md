@@ -20,12 +20,14 @@ I'm a Front-END developer from Iran
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailiwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styledcomponents](https://img.shields.io/badge/Styled--Components-eeeeee?style=for-the-badge&logo=Styled-Components&logoColor=orange)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Redux-Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next js](https://img.shields.io/badge/Next.js-070b0f?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Next js](https://img.shields.io/badge/Next.js-070b0f?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-f54260?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 
 
 ### 📌 My Social
