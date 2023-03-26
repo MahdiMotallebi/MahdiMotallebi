@@ -19,7 +19,7 @@ I'm a Front-END developer from Iran
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailiwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styledcomponents](https://img.shields.io/badge/StyledComponents-eeeeee?style=for-the-badge&logo=Styled-Components&logoColor=white)
+![Styled-components](https://img.shields.io/badge/StyledComponents-eeeeee?style=for-the-badge&logo=Styled-Components&logoColor=orange)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Redux-Toolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
